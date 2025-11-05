@@ -1,0 +1,4 @@
+In Python you can....use almost any variable
+In Python you can....create dictionaries
+In Python you can....make lists
+In Python you can....create modules using classes
