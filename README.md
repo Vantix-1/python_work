@@ -26,10 +26,10 @@
 ## 💻 Development Progress
 | Project | File | Description | Status | Notes |
 |----------|------|-------------|--------|--------|
-| Task API | [task_api.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/task_api.py) | REST API for tasks & habits | ✅ Complete | JSON CRUD verified |
-| Flask Dashboard | [dashboard.html](https://github.com/Vantix-1/automation-ai-developer/blob/main/templates/dashboard.html) | Task & Habit Visual Dashboard | ✅ Working | Linked to API |
-| Habit Tracker | [habit_tracker.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/habit_tracker.py) | JSON persistence | ✅ Complete | — |
-| Daily Planner | [daily_planner.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/daily_planner.py) | Task organization | ✅ Complete | — |
+| Task API | [task_api.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/week3/task_api.py) | REST API for tasks & habits | ✅ Complete | JSON CRUD verified |
+| Flask Dashboard | [dashboard.html](https://github.com/Vantix-1/automation-ai-developer/blob/main/week3/templates/dashboard.html) | Task & Habit Visual Dashboard | ✅ Working | Linked to API |
+| Habit Tracker | [habit_tracker.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/week2/habit_tracker.py) | JSON persistence | ✅ Complete | — |
+| Daily Planner | [daily_planner.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/week2/daily_planner.py) | Task organization | ✅ Complete | — |
 | AI Summary Bot | [ai_summary_bot.py](https://github.com/Vantix-1/automation-ai-developer/blob/main/ai_summary_bot.py) | Generate AI summaries | ⏳ Planned | — |
 
 ---
