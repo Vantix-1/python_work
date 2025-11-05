@@ -33,7 +33,7 @@ new_user.increment_login_attempts()
 new_user.increment_login_attempts()
 new_user.increment_login_attempts()
 
-print(f"\nCurrent login attempts: {new_user.login_attempts}")
+print(f"\nCurrent Login Attempts: {new_user.login_attempts}")
 new_user.reset_login_attempts()
 
 

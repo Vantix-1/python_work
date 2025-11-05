@@ -30,7 +30,7 @@ class Restaurant:
         self.number_served = number_served
         print(f"Number Served: {number_served}")
     def increment_number_served(self, customers):
-        """Add the total amount of customers served for the day"""
+        """Add the total amount of customers00 served for the day"""
         self.number_served += customers
         print(f"Added {customers} customers. Total served: {self.number_served}")
 
