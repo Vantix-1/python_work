@@ -1,5 +1,3 @@
----
-
 ### 🧩 **Learning Progress Tracker**  
 *(Updated: October 30, 2025)*
 
