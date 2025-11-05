@@ -1,7 +1,7 @@
 # 🧩 Weekly Progress Log — Automation & AI Developer Roadmap
 
-**Week of:** [20251102-20251109]  
-**Last Updated:** [20251102]  
+**Week of:** [Nov 2 2025 - Nov 8 2025]  
+**Last Updated:** [Nov 5 2025]  
 **Repository:** [Automation & AI Developer](https://github.com/Vantix-1/automation-ai-developer)
 
 ---
