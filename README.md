@@ -9,17 +9,17 @@
 ## 📚 Book Progress — *Python Crash Course, 3rd Edition (2023)*  
 | Chapter | File | Topic | Status | Notes |
 |----------|-------|--------|--------|--------|
-| 1 | [Chapter01.py](https://github.com/Vantix-1/python_work/blob/main/Chapter01) | Getting Started | ✅ Complete | — |
-| 2 | [Chapter02.py](https://github.com/Vantix-1/python_work/blob/main/Chapter02) | Variables & Data Types | ✅ Complete | — |
-| 3 | [Chapter03.py](https://github.com/Vantix-1/python_work/blob/main/Chapter03) | Introducing Lists | ✅ Complete | — |
-| 4 | [Chapter04.py](https://github.com/Vantix-1/python_work/blob/main/Chapter04) | Working with Lists | ✅ Complete | — |
-| 5 | [Chapter05.py](https://github.com/Vantix-1/python_work/blob/main/Chapter05) | if Statements | ✅ Complete | — |
-| 6 | [Chapter06.py](https://github.com/Vantix-1/python_work/blob/main/Chapter06) | Dictionaries | ✅ Complete | — |
-| 7 | [Chapter07.py](https://github.com/Vantix-1/python_work/blob/main/Chapter07) | User Input & while Loops | ✅ Complete | — |
-| 8 | [Chapter08.py](https://github.com/Vantix-1/python_work/blob/main/Chapter08) | Functions | ✅ Complete | — |
-| 9 | [Chapter09.py](https://github.com/Vantix-1/python_work/blob/main/Chapter09) | Classes | ✅ Complete | — |
-| 10 | [Chapter10.py](https://github.com/Vantix-1/python_work/blob/main/Chapter10) | Files & Exceptions | ⚙️ In Progress | [Add notes] |
-| 11 | [Chapter11.py](https://github.com/Vantix-1/python_work/blob/main/Chapter11) | Testing Your Code | ⏳ Next | — |
+| 1 | [Chapter01](https://github.com/Vantix-1/python_work/blob/main/Chapter01) | Getting Started | ✅ Complete | — |
+| 2 | [Chapter02](https://github.com/Vantix-1/python_work/blob/main/Chapter02) | Variables & Data Types | ✅ Complete | — |
+| 3 | [Chapter03](https://github.com/Vantix-1/python_work/blob/main/Chapter03) | Introducing Lists | ✅ Complete | — |
+| 4 | [Chapter04](https://github.com/Vantix-1/python_work/blob/main/Chapter04) | Working with Lists | ✅ Complete | — |
+| 5 | [Chapter05](https://github.com/Vantix-1/python_work/blob/main/Chapter05) | if Statements | ✅ Complete | — |
+| 6 | [Chapter06](https://github.com/Vantix-1/python_work/blob/main/Chapter06) | Dictionaries | ✅ Complete | — |
+| 7 | [Chapter07](https://github.com/Vantix-1/python_work/blob/main/Chapter07) | User Input & while Loops | ✅ Complete | — |
+| 8 | [Chapter08](https://github.com/Vantix-1/python_work/blob/main/Chapter08) | Functions | ✅ Complete | — |
+| 9 | [Chapter09](https://github.com/Vantix-1/python_work/blob/main/Chapter09) | Classes | ✅ Complete | — |
+| 10 | [Chapter10](https://github.com/Vantix-1/python_work/blob/main/Chapter10) | Files & Exceptions | ⚙️ In Progress | [Add notes] |
+| 11 | [Chapter11](https://github.com/Vantix-1/python_work/blob/main/Chapter11) | Testing Your Code | ⏳ Next | — |
 
 ---
 
